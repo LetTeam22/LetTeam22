@@ -110,7 +110,7 @@ El equipo se ensambló desde un inicio, la colaboración y el entusiasmo fueron 
 </p>
 <h4>Juan Martín Silva</h4>
 <p>
-    <a href="https://www.linkedin.com/in/juanmartinsilva/" target="_blank"><img src="https://res.cloudinary.com/pflet/image/upload/v1664759905/Let/GitHub/tincho_xkhxo0.png" alt="Tincho" height='80' /></a> ⇢
+    <a href="https://www.linkedin.com/in/juanmartinsilva/" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/pflet/image/upload/v1664759905/Let/GitHub/tincho_xkhxo0.png" alt="Tincho" height='80' /></a> ⇢
     <a href="https://www.linkedin.com/in/juanmartinsilva/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a> ⇢
     <a href="https://github.com/juanmarsilva" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
 </p>
