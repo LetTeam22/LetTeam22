@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=-TOVqECdiIw" target="_BLANK"><img src="https://res.cloudinary.com/pflet/image/upload/v1664801764/Let/GitHub/img_video_eobxxu.png" alt="git"/></a> 
+<a href="https://www.youtube.com/watch?v=-TOVqECdiIw" target="_blank"><img src="https://res.cloudinary.com/pflet/image/upload/v1664801764/Let/GitHub/img_video_eobxxu.png" alt="git"/></a> 
 
 <h3 align="center">👋 Bienvenidos a 𝗹𝗲𝘁'𝘀 𝗚𝗢 <h3>
 &nbsp;<hr/>
@@ -14,7 +14,7 @@ La consigna era crear un e-commerce, quisimos ir un poco más allá y encontrar 
 &nbsp;
 <p>   
 Para conocerlo, hacé cick en el siguiente enlace:
-<a href="https://pf-let.vercel.app/" target="_BLANK" alt="git" height="20"><img src="https://res.cloudinary.com/pflet/image/upload/v1664750221/Let/GitHub/img_readme_tn01kl.png" alt="html5" height="40"/></a> 
+<a href="https://pf-let.vercel.app/" target="_blank" alt="git" height="20"><img src="https://res.cloudinary.com/pflet/image/upload/v1664750221/Let/GitHub/img_readme_tn01kl.png" alt="html5" height="40"/></a> 
 &nbsp;<hr/>
 </p>
 
@@ -75,44 +75,44 @@ El equipo se ensambló desde un inicio, la colaboración y el entusiasmo fueron 
 <h4>Nicolás Balbi</h4>
 <p>
     <a href="https://www.linkedin.com/in/nicol%C3%A1s-balbi-263373b4/" target="_blank"><img src="https://res.cloudinary.com/pflet/image/upload/v1664759905/Let/GitHub/nico_t0hdxv.png" alt="Nicolás Balbi" height='80'/></a> ⇢
-    <a href="https://www.linkedin.com/in/nicol%C3%A1s-balbi-263373b4/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a> ⇢
-    <a href="https://github.com/nicobalbi"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
+    <a href="https://www.linkedin.com/in/nicol%C3%A1s-balbi-263373b4/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a> ⇢
+    <a href="https://github.com/nicobalbi" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
 </p> 
 <h4>Soledad Dato</h4>
 <p>
     <a href="https://www.linkedin.com/in/sole-dato-ok/" target="_blank"><img src="https://res.cloudinary.com/pflet/image/upload/v1664759906/Let/GitHub/sole_jju8y1.png" alt="Sole" height='80' /></a> ⇢
-    <a href="https://www.linkedin.com/in/sole-dato-ok/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a> ⇢
-    <a href="https://github.com/soledato"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
+    <a href="https://www.linkedin.com/in/sole-dato-ok/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a> ⇢
+    <a href="https://github.com/soledato" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
 </p> 
 <h4>Felipe Jure</h4>
 <p>
     <a href="https://www.linkedin.com/in/felipe-jure/" target="_blank"><img src="https://res.cloudinary.com/pflet/image/upload/v1664759905/Let/GitHub/feli_wlfyds.png" alt="Feli" height='80' /></a> ⇢
-    <a href="https://www.linkedin.com/in/felipe-jure/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a> ⇢
-    <a href="https://github.com/felipejure"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
+    <a href="https://www.linkedin.com/in/felipe-jure/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a> ⇢
+    <a href="https://github.com/felipejure" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
 </p>
 <h4>Lucía Meyer</h4>
 <p>
     <a href="https://www.linkedin.com/in/lucia-meyer-65633a143/" target="_blank"><img src="https://res.cloudinary.com/pflet/image/upload/v1664759906/Let/GitHub/lu_il2dnr.png" alt="Lu" height='80' /></a> ⇢
-    <a href="https://www.linkedin.com/in/lucia-meyer-65633a143/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a> ⇢
-    <a href="https://github.com/LuciaMeyer"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
+    <a href="https://www.linkedin.com/in/lucia-meyer-65633a143/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a> ⇢
+    <a href="https://github.com/LuciaMeyer" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
 </p>    
 <h4>Leandro Pappalardo</h4>
 <p>
     <a href="https://www.linkedin.com/in/leandro-pappalardo/" target="_blank"><img src="https://res.cloudinary.com/pflet/image/upload/v1664759905/Let/GitHub/lea_dfvtvj.png" alt="Lea" height='80' /></a> ⇢
-    <a href="https://www.linkedin.com/in/leandro-pappalardo/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a> ⇢
-    <a href="https://github.com/leandropap"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
+    <a href="https://www.linkedin.com/in/leandro-pappalardo/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a> ⇢
+    <a href="https://github.com/leandropap" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
 </p>
 <h4>Máximo Tovar</h4>
 <p>
     <a href="https://www.linkedin.com/in/mrtovar10/" target="_blank"><img src="https://res.cloudinary.com/pflet/image/upload/v1664759905/Let/GitHub/maxi_svmtwn.png" alt="Maxi" height='80' /></a> ⇢
-    <a href="https://www.linkedin.com/in/mrtovar10/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a> ⇢
-    <a href="https://github.com/mrtovar10"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
+    <a href="https://www.linkedin.com/in/mrtovar10/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a> ⇢
+    <a href="https://github.com/mrtovar10" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
 </p>
 <h4>Juan Martín Silva</h4>
 <p>
-    <a href="https://www.linkedin.com/in/juan-martin-silva-0b981a191/" target="_blank"><img src="https://res.cloudinary.com/pflet/image/upload/v1664759905/Let/GitHub/tincho_xkhxo0.png" alt="Tincho" height='80' /></a> ⇢
-    <a href="https://www.linkedin.com/in/juan-martin-silva-0b981a191/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a> ⇢
-    <a href="https://github.com/juanmarsilva"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
+    <a href="https://www.linkedin.com/in/juanmartinsilva/" target="_blank"><img src="https://res.cloudinary.com/pflet/image/upload/v1664759905/Let/GitHub/tincho_xkhxo0.png" alt="Tincho" height='80' /></a> ⇢
+    <a href="https://www.linkedin.com/in/juanmartinsilva/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a> ⇢
+    <a href="https://github.com/juanmarsilva" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
 </p>
 &nbsp;<hr/>
 
